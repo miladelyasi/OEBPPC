@@ -49,8 +49,5 @@ If you use the instances or results in your research, please cite our paper:
 
 > E. N. Balık, A. Ekici, M. Elyasi, and O. Ö. Özener. *Open-End Bin Packing Problem with Conflicts*. Department of Industrial Engineering, Özyeğin University.
 
-*(Update with official DOI or conference/journal citation once published.)*
+*(This part will be updated after the publication)*
 
-## License
-
-This project is licensed under the MIT License.
